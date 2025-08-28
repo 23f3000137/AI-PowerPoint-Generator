@@ -68,7 +68,6 @@ AI: Google Gemini API (gemini-pro)
 
 PPT Generation: python-pptx
 
-### 📸 Demo
 
 
-<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/34df42a2-100f-4105-a2e6-8051f3c6f227" />
+
